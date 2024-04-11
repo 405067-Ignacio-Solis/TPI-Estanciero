@@ -2,6 +2,7 @@
 Trabajo Practico Integrador - Laboratorio de Computacion III
 
 Integrantes del grupo: 
+
 Apellido y Nombre - Legajo
 
 * Solis Luna Ignacio - 405067
